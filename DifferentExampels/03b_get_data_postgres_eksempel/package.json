@@ -1,0 +1,23 @@
+{
+  "name": "get_data_eksempel",
+  "version": "1.0.0",
+  "description": "Node.js app using Express and PostgreSQL",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "pg": "^8.3.3"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "postgres"
+  ],
+  "license": "MIT"
+}

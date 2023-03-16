@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div class="container">
+            <h2>Database Results</h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Department</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% if(results) { results.forEach(function(row) { %>
+                    <tr>
+                        <td><%= row.first_name %></td>
+                        <td><%= row.dept_no %></td>
+                    </tr>
+                    <% }) }; %>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

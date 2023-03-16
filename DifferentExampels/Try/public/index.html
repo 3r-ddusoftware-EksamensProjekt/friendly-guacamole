@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="index.js" defer></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Hello</h1>
+
+    <main>
+      <aside>Kontrolpanel</aside>
+
+      <form method="post">
+        <label
+          >Name:
+          <input id="first_name" name="submitted-name" autocomplete="name" />
+        </label>
+        <button>Save</button>
+      </form>
+
+      <section>
+        <table id="producttable">
+          <thead>
+            <tr>
+              <td>UPC_Code</td>
+              <td>Product_Name</td>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- existing data could optionally be included here -->
+          </tbody>
+        </table>
+
+        <template id="productrow">
+          <tr>
+            <td class="record"></td>
+            <td></td>
+          </tr>
+        </template>
+      </section>
+    </main>
+  </body>
+</html>
