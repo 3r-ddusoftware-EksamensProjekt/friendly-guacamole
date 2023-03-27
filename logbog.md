@@ -30,10 +30,10 @@ Da jeg helst skal lave en highfi wireframe inden jeg får lavet den hele.
 
 hvad skal jeg lave?
 
-- Finde ud af hvornår solen står op og går ned, og så finder antal timer på døgn
+- Finde ud af hvornår solen står op og går ned, og så finde antal timer på døgn
 
 - finde ud af fra json fil:
-- hvonår solen står op og går ned, for at kunne tjekke timerne mellem der - gem værdi
+- hvonår solen står op og går ned, for at kunne tjekke timerne mellem der - gem værdi i database
 
 - tjek timerne mellem solen står op og går, find procent skyer, samt vejr.
 
@@ -44,6 +44,8 @@ hvad skal jeg lave?
 
 - find mængde sollys for dagen før
 
+- sætte egen lokation
+
 ### Hvad jeg nåede
 
 Fået arbejdet med opstart af hjemmesiden, fået den sat op så den virker (dog uden design).
@@ -51,3 +53,26 @@ Fået arbejdet med opstart af hjemmesiden, fået den sat op så den virker (dog 
 Har også fået arbejdet med en database, og har fået det til at give mening.
 
 og til slut har jeg fået hjemmesiden til at kunne få information fra API'ens JSON fil, og at kunne skrive den information på siden.
+
+---
+
+## 27-03-2023
+
+### Dagsorden
+
+- Afregn antal timer og skriv på skærmen
+
+  - Find i alt sollys - minus solen går ned med solen står op
+  - Find procent skyer for alle timerne solen er oppe, og fjern antal timer hvor procent er mere end 50%
+
+- finde ud af hvordan jeg sender data fra vejret til database
+
+### Nået for i dag
+
+Har fået mere styr på hvordan jeg skal få en sting til tal, for at kunne finde ud af hvor mange timer solen er på himlen.
+Har også fået bedre styr på hvordan jeg henter dataen jeg skal bruge
+
+### Næste gang
+
+Næste gang skal jeg have mere styr på grafikken til siden, herunder farver osv.
+Jeg skal lave spørgsmål til brugertest, og lave en brugertest
