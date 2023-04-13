@@ -76,3 +76,14 @@ Har også fået bedre styr på hvordan jeg henter dataen jeg skal bruge
 
 Næste gang skal jeg have mere styr på grafikken til siden, herunder farver osv.
 Jeg skal lave spørgsmål til brugertest, og lave en brugertest
+
+---
+
+## 13-04-2023
+
+Har fået lavet en hi-fi version af hjemmesiden, til den har jeg fundet farvepalleten jeg har tænkt mig at bruge til hjemmesiden.
+Jeg har lavet hi-fi versionen for nemmere at kunne vide hvordan hjemmesiden skal sættes op, så jeg ikke bare gætter mig frem.
+Det kan også hjælpe med at visualisere hvad min plan var for siden hvis jeg nu ikke når at blive færdig med at kode demn.
+
+<https://www.figma.com/proto/Wc3gsJiNxgpna3FpxGiN78/Wireframing-in-Figma-(Copy)-(Copy)?node-id=399-680&scaling=min-zoom&page-id=318%3A731&starting-point-node-id=318%3A2514>
+
