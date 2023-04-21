@@ -26,8 +26,8 @@ const time = document.getElementById("time");
 const isDay = document.getElementById("isDay");
 const cloud = document.getElementById("cloud");
 
-let staticURL =
-  "http://api.weatherapi.com/v1/forecast.json?key=0de091b05e714a72a3385754230603&q=Slagelse&days=1&aqi=no&alerts=no&lang=da";
+//let staticURL =
+//  "http://api.weatherapi.com/v1/forecast.json?key=0de091b05e714a72a3385754230603&q=Slagelse&days=1&aqi=no&alerts=no&lang=da";
 
 //let staticURL = "../version 0.1/Postgres Quickstart/weather.json";
 // staticURL = data;

@@ -1,0 +1,48 @@
+#ul_head {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px 64px;
+  gap: 64px;
+  isolation: isolate;
+  overflow: hidden;
+  background-color: var(--shades-main-brand-color);
+  margin: 0px;
+  list-style-type: none;
+}
+
+#li_head #a_head {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+}
+
+#li_head #a_head:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+#ul_foot {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: var(--shades-dark-shades);
+}
+#li_foot {
+  float: left;
+}
+
+#li_foot #a_foot {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: var(--shades-light-shade);
+}
+
+#p_foot {
+  color: var(--shades-light-shade);
+}
