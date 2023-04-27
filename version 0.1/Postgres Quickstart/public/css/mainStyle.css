@@ -14,7 +14,7 @@ p {
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
-  line-height: normal;
+  line-height: 1.75;
   letter-spacing: normal;
 }
 
@@ -54,99 +54,59 @@ h6 {
 h1 {
   font-family: "Montserrat";
   font-size: 3rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+  
 }
 
 h2 {
   font-family: "Montserrat";
   font-size: 2.5rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 h3 {
   font-family: "Montserrat";
   font-size: 2rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 h4 {
   font-family: "Montserrat";
   font-size: 1.5rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 h5 {
   font-family: "Montserrat";
   font-size: 1.25rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 h6 {
   font-family: "Montserrat";
   font-size: 1rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 .Body-P-Larger {
   font-family: "Montserrat";
   font-size: 2rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 .Body-P-Large {
   font-family: "Montserrat";
   font-size: 1.5rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 .Body-P-Small {
   font-family: "Montserrat";
   font-size: 0.75rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
 
 .Body-P-Smaller {
   font-family: "Montserrat";
   font-size: 0.625rem;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
+
 }
