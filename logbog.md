@@ -87,3 +87,22 @@ Det kan også hjælpe med at visualisere hvad min plan var for siden hvis jeg nu
 
 <https://www.figma.com/proto/Wc3gsJiNxgpna3FpxGiN78/Wireframing-in-Figma-(Copy)-(Copy)?node-id=399-680&scaling=min-zoom&page-id=318%3A731&starting-point-node-id=318%3A2514>
 
+---
+
+## 20-04-2023
+
+Fået lavet brugertest, og finpudset design af hjemmeside igen
+(˘･_･˘)(。﹏。\*)
+－_－b
+つ﹏⊂
+⚆_⚆
+
+begyndte også at små kode, dele af designet ind i hjemmesiden.
+
+---
+
+## 27-04-2023
+
+Jeg har fået lavet startsidens design næsten helt færdigt, har haft meget fokus på at lave header og footer rigtig, da de også skal bruges på de senere sider.
+Jeg har fået lavet så man får et popupvindue når man trykker på login og eller opret bruger.
+Jeg skal blive færdig med design næste gang helst.
