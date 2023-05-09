@@ -69,7 +69,7 @@ og til slut har jeg fået hjemmesiden til at kunne få information fra API'ens J
 
 ### Nået for i dag
 
-Har fået mere styr på hvordan jeg skal få en sting til tal, for at kunne finde ud af hvor mange timer solen er på himlen.
+Har fået mere styr på hvordan jeg skal få en string til tal, for at kunne finde ud af hvor mange timer solen er på himlen.
 Har også fået bedre styr på hvordan jeg henter dataen jeg skal bruge
 
 ### Næste gang
@@ -106,3 +106,15 @@ begyndte også at små kode, dele af designet ind i hjemmesiden.
 Jeg har fået lavet startsidens design næsten helt færdigt, har haft meget fokus på at lave header og footer rigtig, da de også skal bruges på de senere sider.
 Jeg har fået lavet så man får et popupvindue når man trykker på login og eller opret bruger.
 Jeg skal blive færdig med design næste gang helst.
+
+---
+
+## 08-05-2023
+
+Til at starte med at bruge jeg en del tid på at planlægge ugens forløb, hvad jeg skal nå at lave og hvornår.
+
+Derudover så har jeg fået lavet pop-up vinduet med login og oprettelse af bruger, om til en dialog modal. Så har jeg kigget på designet, som næsten er færdigt. Og som skal færdig gøres i morgen.
+
+---
+
+## 09-05-2023
