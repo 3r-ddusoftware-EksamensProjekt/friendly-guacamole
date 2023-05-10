@@ -118,3 +118,11 @@ Derudover så har jeg fået lavet pop-up vinduet med login og oprettelse af brug
 ---
 
 ## 09-05-2023
+
+Jeg fik færdiggjort designet af pop up vinduet, også fik jeg arbejdet med designet for side 2, og lavet den færdig.
+
+Jeg skal i morgen så lave moodboard med alle de forskellige føllelser som man kan have, samt finde billeder til.
+
+---
+
+## 10-05-2023
